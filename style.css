@@ -1,0 +1,11 @@
+.ball {
+  display: inline-block;
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+  background-color: red;
+}
+
+#colors-container {
+  cursor: pointer;
+}
